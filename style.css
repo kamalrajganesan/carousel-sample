@@ -177,7 +177,8 @@ body a {
   /* padding: 30px; */
 }
 #section-1 .content-slider .slider .banner .banner-inner-wrapper .banner-highlight-img img{
-  width: 100%;
+/*   width: 100%; */
+  width: 60%;
 }
 #section-1 .content-slider .slider .banner .banner-inner-wrapper h2 {
   padding-bottom: 0.3em;
